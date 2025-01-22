@@ -13,9 +13,11 @@ SQL compares each row in one table with every row in another to find matches. Wh
 To join tables, you must know each table’s primary key and the foreign keys that connect them. Without identifying these keys, you can’t join tables.
 
 ### Sources:
-Copy the gwz_product table into the new dataset. [Here](# )
-Copy the gwz_sales table into the new dataset. [Here](# )
-Copy the gwz_ship table into the new dataset. [Here](# )
+Copy the gwz_product table into the new dataset. [Here](#https://console.cloud.google.com/bigquery?project=data-analytics-bootcamp-363212&ws=!1m5!1m4!4m3!1sdata-analytics-bootcamp-363212!2scourse16!3sgwz_product)
+
+Copy the gwz_sales table into the new dataset. [Here](#https://console.cloud.google.com/bigquery?project=data-analytics-bootcamp-363212&ws=!1m5!1m4!4m3!1sdata-analytics-bootcamp-363212!2scourse16!3sgwz_sales)
+
+Copy the gwz_ship table into the new dataset. [Here](#https://console.cloud.google.com/bigquery?project=data-analytics-bootcamp-363212&ws=!1m5!1m4!4m3!1sdata-analytics-bootcamp-363212!2scourse16!3sgwz_ship)
 
 To help with the task, we’ve summarized the information about the keys:
 
