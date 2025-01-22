@@ -116,3 +116,7 @@ SELECT
   COUNT(*)
 FROM `course16.gwz_orders_operational`;
 ```
+
+!And check if the 2 tests are equal!
+
+
