@@ -13,7 +13,7 @@ To do this, you’ve been provided with multiple CSV files by your client.
 ![01-CaseStudy](https://github.com/user-attachments/assets/70d04b28-53df-4428-8b8e-8bb7bcdedc5b)
 
 ### Data: Visitor
-[Download Here](#https://docs.google.com/spreadsheets/d/1GvXefYfRmbelaGnQhcCwpvsu2vs5WNcKGNtAMOrXT0Y/edit?gid=1313584518#gid=1313584518)
+[Download Here](https://docs.google.com/spreadsheets/d/1GvXefYfRmbelaGnQhcCwpvsu2vs5WNcKGNtAMOrXT0Y/edit?gid=1313584518#gid=1313584518)
 
 The airport has hired staff members to count the number of people entering and exiting the building.
 
@@ -28,7 +28,7 @@ However, data is only recorded into a spreadsheet once a day.
 
 ### Data: Sales
 
-[Download Here](#https://docs.google.com/spreadsheets/d/1zSqIGIooYoCTqFnArUG6Y950Syv49xYwqtuHnRSNWzA/edit?gid=1162345981#gid=1162345981)
+[Download Here](https://docs.google.com/spreadsheets/d/1zSqIGIooYoCTqFnArUG6Y950Syv49xYwqtuHnRSNWzA/edit?gid=1162345981#gid=1162345981)
 
 Sales data were exported directly from the point of sales (POS) system. As such, it records data at a transaction level.
 
